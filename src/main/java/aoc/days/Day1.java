@@ -3,8 +3,6 @@ package aoc.days;
 import aoc.DayInterface;
 import aoc.ExoEntryUtils;
 
-import java.util.Arrays;
-
 public class Day1 implements DayInterface {
 
     @Override
