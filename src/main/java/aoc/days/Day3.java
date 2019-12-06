@@ -2,10 +2,11 @@ package aoc.days;
 
 import aoc.DayInterface;
 import aoc.ExoEntryUtils;
-import lombok.AllArgsConstructor;
-import lombok.Data;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
 
 // Stockage des positions : x.y
 public class Day3 implements DayInterface {
